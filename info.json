@@ -1,0 +1,11 @@
+
+{
+  "name": "Hiladdar_Robots",
+  "version": "0.18.6",
+  "factorio_version": "0.18",
+  "title": "Hiladdar's Robots",
+  "author": "Hiladdar",
+  "contact": "hiladdar@att.net",
+  "dependencies": ["base >= 0.18.4"],
+  "description": "Adds a new 4 new tiers of robots and 2 new tiers roboports, 1 new personal roboport, and a robot recaller."
+}

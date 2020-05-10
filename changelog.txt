@@ -1,0 +1,77 @@
+Change Log
+
+0.18.6
+
+   - Normal resolution idling logistic robots will now use the correct graphics file.
+
+
+0.18.5
+
+   - Fixed the description in the .json file to include bot-recaller
+   - Moved the bot recaller to be listed after the requestor chest
+   - Removed the "working" graphic files which are no longer used
+
+0.18.4
+
+   - Brought into complience with Factorio 0.18.4 (no longer referencing working construction robot graphics, in base game)
+   - Added a bot recaller
+
+0.18.3
+
+   - Fixed normal resolution sprites for MK2 construction robots bug
+   - Removed some program files which were not used
+
+
+0.18.2
+
+   - Brought into complience with Factorio 0.18.0 (sound)
+   - Imrpoved code to make it more maintainable
+   - Improved the graphics for logistical robots
+   - Improved the graphics for construction robots
+   - Updated icon graphics for construction and logistics robots
+
+0.18.1
+
+  - Brought into complience with Factorio 0.18.0 (icons)
+
+---------
+
+0.17.6
+
+   - Fixed info.json dependencies definitions
+   - Add 2 roboports that focus on recharging robots with much smaller logistical and construction ranges
+   - Increaed, input flow, buffer, and charging energy for the existing mk2 and mk3 roboports
+   - Changed the pattern mk2 and mk3 roboports for recharing robots
+
+0.17.5
+
+   - Factorio Release 0.17.35 internally changed the naming convention of roboports, this patch is to put this mod in compliance with new naming convention.
+
+0.17.4
+
+    - Roboports can now be upgraded via the upgrade planner
+
+0.17.3
+
+    - Changed the color of personal roboport to greenish in color for both the icon and item which goes into armor.
+
+0.17.2
+
+    - Added addition refrensing to correct icon file
+    - Found and fixed a graphic introducted via upgrading from Factorio .16 to .17
+
+0.17.1
+
+     - Changed recipies to work with 17.0.
+     - Removed flag dependency since inventory is now handled differently.
+     - Added color to both construction and logistic robots.
+
+---------
+
+.0.16.2
+
+   - Corrected syntax errors in code which was preventing the module from loading in high resolution mode.
+
+.0.16.1
+
+     - Initial Release
