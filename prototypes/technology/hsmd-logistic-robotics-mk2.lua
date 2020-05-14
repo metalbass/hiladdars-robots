@@ -6,6 +6,7 @@ data:extend({
    {
       type = "technology",
       name = "hsmd-logistic-robotics-2",
+      localised_description = { "technology-description.hsmd-logistic-robotics-mk2" },
       icon = "__base__/graphics/technology/logistic-robotics.png",
 	  icon_size = 128,
       effects =
