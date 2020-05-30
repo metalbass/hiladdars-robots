@@ -1,5 +1,11 @@
 Change Log
 
+0.18.7 (Thanks metalbass for your testing and submissions)
+
+   - Incorporated Catalan language translations
+   - The interface string "robotics" replaced with "robots" for clarity. 
+
+
 0.18.6
 
    - Normal resolution idling logistic robots will now use the correct graphics file.
@@ -10,6 +16,7 @@ Change Log
    - Fixed the description in the .json file to include bot-recaller
    - Moved the bot recaller to be listed after the requestor chest
    - Removed the "working" graphic files which are no longer used
+
 
 0.18.4
 
@@ -29,6 +36,7 @@ Change Log
    - Improved the graphics for logistical robots
    - Improved the graphics for construction robots
    - Updated icon graphics for construction and logistics robots
+
 
 0.18.1
 
